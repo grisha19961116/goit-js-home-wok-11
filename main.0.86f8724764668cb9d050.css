@@ -1,0 +1,1 @@
+body{min-height:100vh;min-width:100vh;margin:0;padding:0;display:flex;justify-content:center;align-items:center}.wrapper{min-width:60vh;min-height:10vh;display:flex;justify-content:space-between}button{width:40%;height:10vh;cursor:pointer;background-color:#1659d6;border-radius:10%;border:none;font-size:xx-large;text-transform:uppercase}
